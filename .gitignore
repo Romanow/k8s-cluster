@@ -1,0 +1,13 @@
+.idea/
+*.log
+*.iml
+*.iws
+*.ipr
+.env
+**/.vagrant/
+**/.terraform/*
+**/.terragrunt-cache/*
+*.tfplan
+*.tfstate
+*.tfstate.*
+*.auto.tfvars
